@@ -1,6 +1,6 @@
-# ChatGroq RAG with Llama2 Embeddings
+# ChatGroq RAG
 
-This repository demonstrates how to create a webpage retrieval system using **Llama2 Embeddings** and **LangChain** with Streamlit for interactive querying. The app uses **Ollama Embeddings** to handle document vectorization and retrieval.
+This repository demonstrates how to create a webpage retrieval system using model named **mixtral-8x7b-32768** on Groq and **LangChain** with Streamlit for interactive querying. The app uses **Ollama Embeddings** to handle document vectorization and retrieval.
 
 ---
 
