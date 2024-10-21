@@ -47,9 +47,9 @@ Follow the steps below to set up your environment on your local machine:
      ```
 
 ### 6. **Provide the website link**
-    ```python
+   ```python
     st.session_state.loader=WebBaseLoader("https://docs.smith.langchain.com/")
-    ```
+   ```
 ---
 
 ## Running the Application
